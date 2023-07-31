@@ -18,14 +18,9 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio,
 
 ### Сертификаты Нетологии
 
--   Python  [https://github.com/](https://github.com/)
-    
--   Django  [https://github.com/](https://github.com/)
-    
--   Python в web-разработке  [https://github.com/](https://github.com/)
-    
--   SQL и получение данных  [https://github.com/](https://github.com/)
-    
--   Python  [https://github.com/](https://github.com/)
-    
--   GIT  [https://github.com/](https://github.com/)
+- [Python](./certificate/python.pdf)
+- [Python Advanced](./certificate/python-advanced.pdf)
+- [Python в web-разработке](./certificate/web-develop.pdf)
+- [Django](./certificate/django.pdf)
+- [SQL и получение данных](./certificate/python-advanced.pdf)
+- [GIT](./certificate/git.pdf)
