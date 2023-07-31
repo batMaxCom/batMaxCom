@@ -2,7 +2,6 @@
 Я **Батманов Владислав**, python-разработчик.
 
 ### Мой стек
-Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, `Charmander`, PostgreSQL, `Apache`, Nginx, Git, REST, `Postfix`, `KVM`, Docker, Docker-compose, Celery, Redis
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend-development)](https://git.io/typing-svg)
 
