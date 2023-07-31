@@ -3,6 +3,8 @@
 
 ### Мой стек
 Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, `Charmander`, PostgreSQL, `Apache`, Nginx, Git, REST, `Postfix`, `KVM`, Docker, Docker-compose, Celery, Redis
+![Uploading image.png…]()
+
 
 
 
