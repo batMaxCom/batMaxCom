@@ -1,5 +1,5 @@
 ## Привет!
-Я **Батманов Владислав**, python-разработчик.
+Я **Батманов Владислав**, Python-разработчик.
 
 ### Мой стек
 
@@ -44,7 +44,7 @@
 ### Проекты:
  - [VK-бот, аналог Tinder в среде VK.](https://github.com/batMaxCom/VkTinder-for-Python) 
  - [Бэкап фотографий из сервиса VK на Я.Диск](https://github.com/batMaxCom/Backup-VkPhotos-to-YaDisk)
- - [Api-сервис розничной торговли](https://github.com/batMaxCom/python-final-diplom)
+ - [API-сервис розничной торговли](https://github.com/batMaxCom/python-final-diplom)
 
 ### Сертификаты Нетологии
 - [Python](./certificate/python.pdf)
