@@ -28,7 +28,7 @@
  - Django, DRF. [Репозиторий с домашними работами.](./homework/django.md)
  - Docker, Docker-compose, Flask, Asyncio. [Репозиторий с домашними работами.](./homework/web-develop.md)
  - Git.
- - 
+   
 ### Проекты:
  - [VK-бот, аналог Tinder в среде VK.](https://github.com/batMaxCom/VkTinder-for-Python) 
  - [Бэкап фотографий из сервиса VK на Я.Диск](https://github.com/batMaxCom/Backup-VkPhotos-to-YaDisk)
