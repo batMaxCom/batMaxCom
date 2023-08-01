@@ -43,8 +43,8 @@
    
 ### Проекты и используемые технологии:
  - [VK-бот, аналог Tinder в среде VK.](https://github.com/batMaxCom/VkTinder-for-Python)
-  - PostgreSQL (psycopg2, SQLAlchemy)
-  - Взаимодействие с API-VK (vk-api)
+    - PostgreSQL (psycopg2, SQLAlchemy)
+    - Взаимодействие с API-VK (vk-api)
  - [Бэкап фотографий из сервиса VK на Я.Диск](https://github.com/batMaxCom/Backup-VkPhotos-to-YaDisk)
  - [API-сервис розничной торговли](https://github.com/batMaxCom/python-final-diplom)
 
