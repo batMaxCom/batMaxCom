@@ -1,5 +1,5 @@
-## Привет!
-Я **Батманов Владислав**, Python-разработчик.
+<h1 align="center">Привет, я Батманов Владислав, Python-разработчик. 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Мой стек
 
@@ -32,7 +32,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Banimetal94)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batman181194@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/467527297474363403/)
-
 
 ### Вот что я умею:
  - Python. Python Advanced [Репозиторий с домашними работами.](./homework/python.md)
