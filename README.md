@@ -49,7 +49,7 @@
     - VK-API
     - Яндекс.Полигон
  - [API-сервис розничной торговли](https://github.com/batMaxCom/python-final-diplom)
-    - Фреймвор (Django, Django Rest Framework)
+    - Фреймворк (Django, Django Rest Framework)
     - База данных (PostgreSQL)
     - Социальная авторизация (social-auth-app-django)
     - Документация OpenAPI (drf-spectacular)
