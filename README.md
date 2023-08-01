@@ -46,7 +46,12 @@
     - PostgreSQL (psycopg2, SQLAlchemy)
     - Взаимодействие с API-VK (vk-api)
  - [Бэкап фотографий из сервиса VK на Я.Диск](https://github.com/batMaxCom/Backup-VkPhotos-to-YaDisk)
+    - Requests
+    - VK-API
+    - Яндекс.Полигон
  - [API-сервис розничной торговли](https://github.com/batMaxCom/python-final-diplom)
+    - PostgreSQL (psycopg2, SQLAlchemy)
+    - Взаимодействие с API-VK (vk-api)
 
 ### Сертификаты Нетологии
 - [Python](./certificate/python.pdf)
