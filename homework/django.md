@@ -4,9 +4,9 @@
 
 - [Обработка запросов и шаблоны](https://github.com/batMaxCom/Django.Tamplates-and-paginator)
 
-- [Работа с ORM. Выгрузка данных из файла и сохранение в базу данных](https://github.com/batMaxCom/Django.CSV-unloading-and-pagi-by-date/tree/main/models_list_displaying) 
+- [Работа с ORM. Выгрузка данных из файла и сохранение в базу данных](https://github.com/batMaxCom/Django.CSV-unloading-and-pagi-by-date/tree/main/work_with_database)
 
-- [Работа с ORM. Онлайн библиотека]([https://github.com/batMaxCom/Django.CSV-unloading-and-pagi-by-date/tree/main/models_list_displaying](https://github.com/batMaxCom/Django.CSV-unloading-and-pagi-by-date/tree/main/work_with_database)) 
+- [Работа с ORM. Онлайн библиотека](https://github.com/batMaxCom/Django.CSV-unloading-and-pagi-by-date/tree/main/models_list_displaying)
 
 - [Работа с ORM. Миграции](https://github.com/batMaxCom/Django.M2M/tree/main/orm_migrations)
 
