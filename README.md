@@ -50,8 +50,12 @@
     - VK-API
     - Яндекс.Полигон
  - [API-сервис розничной торговли](https://github.com/batMaxCom/python-final-diplom)
-    - PostgreSQL (psycopg2, SQLAlchemy)
-    - Взаимодействие с API-VK (vk-api)
+    - Фреймвор (Django, Django Rest Framework)
+    - База данных (PostgreSQL)
+    - Социальная авторизация (social-auth-app-django)
+    - Документация OpenAPI (drf-spectacular)
+    - Респределение очереди задач (Celery, Redis)
+    - Тестирование (Pytest)
 
 ### Сертификаты Нетологии
 - [Python](./certificate/python.pdf)
