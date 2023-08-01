@@ -2,7 +2,7 @@
 
 - [Модули, пакеты, импорты в Python](https://github.com/batMaxCom/Import)
 
-- [ООП: объекты и классы. Взаимодействие между ними](https://github.com/batMaxCom/OOP-Project)
+- [ООП: Объекты и классы. Инкапсуляция, наследование и полиморфизм](https://github.com/batMaxCom/OOP-Project)
 
 - [Открытие и чтение файла, запись в файл](https://github.com/batMaxCom/Reed.Write_File)
 
