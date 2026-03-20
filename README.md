@@ -26,7 +26,10 @@
     <img width="278" src="images/repo/tuya-led-controller-api.png" alt="tuya-led-controller-api">
   </a>
   <a href="https://github.com/batMaxCom/usagi-house-anime-bot">
-    <img width="278" src="images/repo/usagi-house-anime-bot.png" alt="tuya-led-controller-api">
+    <img width="278" src="images/repo/usagi-house-anime-bot.png" alt="usagi-house-anime-bot">
+  </a>
+  <a href="https://github.com/batMaxCom/bookhub-clean-architecture">
+    <img width="278" src="images/repo/bookhub-clean-architecture.png" alt="bookhub-clean-architecture">
   </a>
 </p>
 
