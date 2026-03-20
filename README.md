@@ -19,6 +19,14 @@
 <details open> 
   <summary><h2>📘 Мои Open Source Проекты</h2></summary>
 
+
+
+<p align="left">
+  <a href="https://github.com/batMaxCom/tuya-led-controller-api">
+    <img width="278" src="images/repo/tuya-led-controller-api.png" alt="tuya-led-controller-api">
+  </a>
+</p>
+
   <a href="https://github.com/batMaxCom?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
