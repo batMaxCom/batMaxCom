@@ -18,25 +18,21 @@
 
 <details open> 
   <summary><h2>📘 Мои Open Source Проекты</h2></summary>
-
-
-
-<p align="left">
-  <a href="https://github.com/batMaxCom/tuya-led-controller-api">
-    <img width="278" src="images/repo/tuya-led-controller-api.png" alt="tuya-led-controller-api">
-  </a>
-  <a href="https://github.com/batMaxCom/usagi-house-anime-bot">
-    <img width="278" src="images/repo/usagi-house-anime-bot.png" alt="usagi-house-anime-bot">
-  </a>
-  <a href="https://github.com/batMaxCom/bookhub-clean-architecture">
-    <img width="278" src="images/repo/bookhub-clean-architecture.png" alt="bookhub-clean-architecture">
-  </a>
-  <a href="https://github.com/batMaxCom/lg-ws-controller-api">
-    <img width="278" src="images/repo/lg-ws-controller-api.png" alt="lg-ws-controller-api">
-  </a>
-</p>
-
-  <a href="https://github.com/batMaxCom?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <p align="left">
+      <a href="https://github.com/batMaxCom/tuya-led-controller-api">
+        <img width="278" src="images/repo/tuya-led-controller-api.png" alt="tuya-led-controller-api">
+      </a>
+      <a href="https://github.com/batMaxCom/usagi-house-anime-bot">
+        <img width="278" src="images/repo/usagi-house-anime-bot.png" alt="usagi-house-anime-bot">
+      </a>
+      <a href="https://github.com/batMaxCom/bookhub-clean-architecture">
+        <img width="278" src="images/repo/bookhub-clean-architecture.png" alt="bookhub-clean-architecture">
+      </a>
+      <a href="https://github.com/batMaxCom/lg-ws-controller-api">
+        <img width="278" src="images/repo/lg-ws-controller-api.png" alt="lg-ws-controller-api">
+      </a>
+    </p>
+    <a href="https://github.com/batMaxCom?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details> 
