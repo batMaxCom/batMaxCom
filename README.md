@@ -16,7 +16,7 @@
   <a href="https://github.com/batMaxCom"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/ffffff" /></a>
 </p>
 
-<details open> 
+<details> 
   <summary><h2>📘 Мои Open Source Проекты</h2></summary>
     <p align="left">
       <a href="https://github.com/batMaxCom/tuya-led-controller-api">
